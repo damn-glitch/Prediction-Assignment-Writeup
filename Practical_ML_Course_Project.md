@@ -1,6 +1,6 @@
 # Predict activity quality from activity monitors
-Onur Akpolat  
-24. January 2015  
+Alisher Beisembekov 
+2 November 2020
 
 ##Synopsis
 
